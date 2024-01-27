@@ -5,6 +5,9 @@
     background-color:rgb(244, 202, 140);
 }
 .main{
-   width: 600px;
-   border: 6px solid rgb(39, 7, 7);
+   width: 450px;
+   border: 3px solid rgb(39, 7, 7);
+}
+.main-img{
+    width: 535px;
 }
